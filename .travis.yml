@@ -16,3 +16,4 @@ before_install:
 script:
   - docker-compose up -d
   - docker-compose ps
+
